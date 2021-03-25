@@ -1,0 +1,1 @@
+# codacy-sample-app
